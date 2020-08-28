@@ -1,5 +1,5 @@
 #Algoritmo e Programação de Computadores I
-#Semana 02
+#Semana 2 - 10/08/2020
 #Expressões Aritméticas e Operadores
 ## // - divisão inteira - pega só o quociente, não considerando o resto
 ## 3//2 - 1 e resta 1 (quociente da divisão)
